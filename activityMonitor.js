@@ -31,4 +31,4 @@ setInterval(()=>{
             if (err) throw err;
           })
     }
-}, 10000);
+}, 60000);
